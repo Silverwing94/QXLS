@@ -3,7 +3,7 @@
 QXLS - a small wrapper library around ActiveQt QAxObjects, 
 representing MS Excel app and its subobjects, 
 used to interact and control MS Excel from Qt
-Copyright (C) 2018 Konstantin "Silverwing" Yurkov kotyurkov@yandex.ru
+Copyright (C)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
